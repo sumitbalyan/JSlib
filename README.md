@@ -2,7 +2,8 @@
 
 ## Getting started
 
-`$ npm install react-native-crypto-rsa --save`
+Add lib.js in your html page and start using the lib methods. Also, can extend the lib.js methods as desired!!
+
 
 ## Usage
 ```javascript
@@ -47,3 +48,5 @@ $('h3').setColor('red');
 $('h3').removeColor();
 
 ```
+
+## Happy coding!!
